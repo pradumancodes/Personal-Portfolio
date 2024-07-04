@@ -390,19 +390,19 @@ section {
 }
 
 .progress-line.css span {
-    width: 70%;
-}
-
-.progress-line.JavaScript span {
-    width: 72%;
-}
-
-.progress-line.Python span {
     width: 80%;
 }
 
+.progress-line.JavaScript span {
+    width: 78%;
+}
+
+.progress-line.Python span {
+    width: 85%;
+}
+
 .progress-line.React span {
-    width: 60%;
+    width: 65%;
 }
 
 .progress-line span::after {
@@ -424,11 +424,11 @@ section {
 }
 
 .progress-line.css span::after{
-    content: "70%";
+    content: "80%";
 }
 
 .progress-line.JavaScript span::after{
-    content: "72%";
+    content: "78%";
 }
 
 .progress-line.Python span::after{
@@ -436,7 +436,7 @@ section {
 }
 
 .progress-line.React span::after{
-    content: "60%";
+    content: "65%";
 }
 
 .progress-line span::before{
